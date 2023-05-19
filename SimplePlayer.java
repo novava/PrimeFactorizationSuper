@@ -26,7 +26,7 @@ public class SimplePlayer  extends JFrame implements ActionListener, BasicPlayer
 
     // コンストラクタ
     SimplePlayer() {
-        frame.setTitle("MP3 Player"); //  タイトル
+        frame.setTitle("MP3 Player 2"); //  タイトル
         frame.setLayout(new BorderLayout());
         // display("" + player.getStatus());
 
